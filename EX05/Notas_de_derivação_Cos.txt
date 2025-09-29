@@ -1,0 +1,9 @@
+Derivada de Cos(x):
+1. Cos(X) = -sen(x)
+2. -sen(x) = -cos(x)
+3. -cos(x) = sen(x)
+4. sen(x) = cos(x).
+O lopping se faz com 4 passadas.
+Valor mais simples para se trabalhar é o 0.
+
+
