@@ -1,0 +1,18 @@
+Aproximação e Propriedades:
+A função tangente é periódica (PI) e tem assíntotas em +- PI/2, 3PI/2, ...
+A serie de Taylor so converge bem quando |x| < PI/2, quanto mais perto de Pi/2 pior a aproximação.
+Por isso, restringimos o intervalo de aproximação.
+|x| < PI/2.
+
+Para a montagem da tabela de valores:
+Usamos o valor real da tangente em x.
+Aproximação: O Maximo vamos continuar em 10.
+então para o mínimo vãos usar N = 5.
+
+Com isso adicionamos os dois valores de N na serie de Maclaurin truncada.
+E calcular o erro com Erro = tan_real(x) - Taylor_tan(x).
+
+Devemos mostrar o mínimo e máximo pratico para a precisão.
+Para ilustrar vamos usar valores próximos e não muitos distante de x = 0.
+
+
